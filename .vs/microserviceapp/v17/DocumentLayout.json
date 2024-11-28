@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\consumer\\productcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\consumer\\productcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\apigateway\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{316AE94B-6868-47F8-866C-461267FED8E3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\data\\ordersapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\data\\ordersapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\data\\productsapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694A273C-29D0-474E-A9DB-40AEED64C32E}|Shared\\Shared.csproj|C:\\Users\\lotfi\\source\\repos\\microserviceapp\\shared\\models\\productcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694A273C-29D0-474E-A9DB-40AEED64C32E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\productcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\controllers\\productcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\controllers\\productcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\productsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lotfi\\AppData\\Local\\InnoCode360 Technologies Co\\CodeInno360.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\productsapi\\migrations\\20241112085700_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0587AC-6B08-42BB-A0A6-EF536ECE728D}|ProductsAPI\\ProductsAPI.csproj|solutionrelative:productsapi\\migrations\\20241112085700_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\migrations\\20241112091331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\migrations\\20241112091331_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|c:\\users\\lotfi\\source\\repos\\microserviceapp\\ordersapi\\migrations\\20241124115858_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2510040-F14D-4875-BDE2-6827BC880EC2}|OrdersAPI\\OrdersAPI.csproj|solutionrelative:ordersapi\\migrations\\20241124115858_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Program.cs",
+              "RelativeToolTip": "ProductsAPI\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:42:36.257Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:56:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OrdersAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:15:12.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Program.cs",
+              "RelativeToolTip": "OrdersAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:55:38.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Ocelot.json",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\Ocelot.json",
+              "RelativeToolTip": "ApiGateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T09:45:56.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "RelativeToolTip": "OrdersAPI\\Consumer\\ProductCreatedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:02:11.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrdersAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:11:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Models\\Product.cs",
+              "RelativeToolTip": "OrdersAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:52:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "RelativeToolTip": "ProductsAPI\\Data\\ProductsAPIContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:05:11.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "RelativeToolTip": "OrdersAPI\\Data\\OrdersAPIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:10:45.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:14:15.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\libman.json",
+              "RelativeDocumentMoniker": "ApiGateway\\libman.json",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ApiGateway\\libman.json",
+              "RelativeToolTip": "ApiGateway\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T08:14:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Models\\Orders.cs",
+              "RelativeToolTip": "OrdersAPI\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:17:32.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\appsettings.json",
+              "RelativeToolTip": "ProductsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T18:01:02.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "OrdersAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\appsettings.json",
+              "RelativeToolTip": "OrdersAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T17:59:23.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:27:25.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductCreated.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\Shared\\Models\\ProductCreated.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\ProductCreated.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\Shared\\Models\\ProductCreated.cs",
+              "RelativeToolTip": "Shared\\Models\\ProductCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:01:45.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductCreated.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Controllers\\ProductCreated.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Controllers\\ProductCreated.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Controllers\\ProductCreated.cs",
+              "RelativeToolTip": "ProductsAPI\\Controllers\\ProductCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:02:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241124115858_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Migrations\\20241124115858_AddProduct.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Migrations\\20241124115858_AddProduct.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Migrations\\20241124115858_AddProduct.cs",
+              "RelativeToolTip": "OrdersAPI\\Migrations\\20241124115858_AddProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:58:59.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductsAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeDocumentMoniker": "ProductsAPI\\ProductsAPI.csproj",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\ProductsAPI.csproj",
+              "RelativeToolTip": "ProductsAPI\\ProductsAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T16:11:50.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CodeInno360.js",
+              "DocumentMoniker": "C:\\Users\\lotfi\\AppData\\Local\\InnoCode360 Technologies Co\\CodeInno360.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\InnoCode360 Technologies Co\\CodeInno360.js",
+              "ToolTip": "C:\\Users\\lotfi\\AppData\\Local\\InnoCode360 Technologies Co\\CodeInno360.js",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\InnoCode360 Technologies Co\\CodeInno360.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T10:28:43.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241112085700_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Migrations\\20241112085700_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\Migrations\\20241112085700_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\Migrations\\20241112085700_InitialCreate.cs",
+              "RelativeToolTip": "ProductsAPI\\Migrations\\20241112085700_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:57:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProductsAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\ProductsAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "ProductsAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:49:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241112091331_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Migrations\\20241112091331_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrdersAPI\\Migrations\\20241112091331_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\lotfi\\source\\repos\\microserviceapp\\OrdersAPI\\Migrations\\20241112091331_InitialCreate.cs",
+              "RelativeToolTip": "OrdersAPI\\Migrations\\20241112091331_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:13:31.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

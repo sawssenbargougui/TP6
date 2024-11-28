@@ -1,0 +1,6 @@
+C:\Users\lotfi\source\repos\microserviceapp\Shared\bin\Debug\Shared.dll
+C:\Users\lotfi\source\repos\microserviceapp\Shared\bin\Debug\Shared.pdb
+C:\Users\lotfi\source\repos\microserviceapp\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\lotfi\source\repos\microserviceapp\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\lotfi\source\repos\microserviceapp\Shared\obj\Debug\Shared.dll
+C:\Users\lotfi\source\repos\microserviceapp\Shared\obj\Debug\Shared.pdb
